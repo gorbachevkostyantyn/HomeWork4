@@ -142,7 +142,7 @@ border-top: 2px solid #cacbcb;
 -webkit-box-shadow: 0px 3px 3px 0px rgba(50, 50, 50, 0.55);
 -moz-box-shadow:    0px 3px 3px 0px rgba(50, 50, 50, 0.55);
 box-shadow:         0px 3px 3px 0px rgba(50, 50, 50, 0.55);
-
+position: relative;
 
 }
 
